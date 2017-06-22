@@ -892,3 +892,15 @@ file_filter = locale/<lang>/server-manager/NethServer_Module_VirtualHosts_Modify
 source_file = locale/en/server-manager/NethServer_Module_VirtualHosts_ModifyPlugin_PhpSettings.php
 source_lang = en
 type = PHP_ALT_ARRAY
+
+[nethserver.Awstats]
+file_filter = locale/<lang>/server-manager/NethServer_Module_Awstats.php
+source_file = locale/en/server-manager/NethServer_Module_Awstats.php
+source_lang = en
+type = PHP_ALT_ARRAY
+
+[nethserver.Dashboard_SystemStatus_Stephdl]
+file_filter = locale/<lang>/server-manager/NethServer_Module_Dashboard_SystemStatus_Stephdl.php
+source_file = locale/en/server-manager/NethServer_Module_Dashboard_SystemStatus_Stephdl.php
+source_lang = en
+type = PHP_ALT_ARRAY
