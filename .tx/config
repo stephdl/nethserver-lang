@@ -806,3 +806,9 @@ file_filter = locale/<lang>/server-manager/NethServer_Module_User_Plugin_ShellIn
 source_file = locale/en/server-manager/NethServer_Module_User_Plugin_ShellInaBox.php
 source_lang = en
 type = PHP_ALT_ARRAY
+
+[nethserver-v6.Dashboard_SystemStatus_Stephdl]
+file_filter = locale/<lang>/server-manager/NethServer_Module_Dashboard_SystemStatus_Stephdl.php
+source_file = locale/en/server-manager/NethServer_Module_Dashboard_SystemStatus_Stephdl.php
+source_lang = en
+type = PHP_ALT_ARRAY
